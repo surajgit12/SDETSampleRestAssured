@@ -73,7 +73,8 @@ public class extractJSONDataUsingJsonPath {
 				assertThat(response.path("[0].name"), equalTo("suraj"));
 				assertThat(response.path("[0].courses[1]"), equalTo("selenium"));
 	
-	              // Assert is equal is new textewfewfewfwfwj
+	              // Assert is equal is new textewfewfewfwfwjdrerwe4gege
+				//sgerkjgrekbver
 				
 	}}
 		
