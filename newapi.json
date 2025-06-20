@@ -1,0 +1,16 @@
+{
+  "students": 
+[
+    {
+      "id": "1",
+      "name": "suraj",
+      "location": "Pune",
+      "phone": "2131221312",
+      "courses": 
+      [
+        "java",
+        "selenium"
+      ]
+    }
+  ]
+}
