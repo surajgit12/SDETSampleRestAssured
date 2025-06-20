@@ -73,6 +73,7 @@ public class extractJSONDataUsingJsonPath {
 				assertThat(response.path("[0].name"), equalTo("suraj"));
 				assertThat(response.path("[0].courses[1]"), equalTo("selenium"));
 	
+				/// changes in suraj branch equal
 	
 
 				
