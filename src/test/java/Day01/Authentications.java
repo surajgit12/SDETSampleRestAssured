@@ -24,12 +24,18 @@ public class Authentications {
 			    .body("authenticated", equalTo(true))
 				.log().all();
 		
+
+		// third line by suraj feature branch
+
 		// first changes.
 		// second  changes in
 		//thried line added by master
 		
+
 		// new line added by master
-		
+
+		// 12222222222222222 feature
+
 	}
 
 }
