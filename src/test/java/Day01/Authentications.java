@@ -24,7 +24,7 @@ public class Authentications {
 			    .body("authenticated", equalTo(true))
 				.log().all();
 		
-
+  //Test
 	}
 
 }
